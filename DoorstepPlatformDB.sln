@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DoorstepPlatformDB", "DoorstepPlatformDB\DoorstepPlatformDB.sqlproj", "{FC200E77-5566-490E-B2E1-44E643CA386E}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Platform", "Platform\Platform.sqlproj", "{FC200E77-5566-490E-B2E1-44E643CA386E}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MembershipDB", "MembershipDB\MembershipDB.sqlproj", "{09343D28-70B0-4533-AF02-C55381566016}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Authentication", "Authentication\Authentication.sqlproj", "{09343D28-70B0-4533-AF02-C55381566016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
